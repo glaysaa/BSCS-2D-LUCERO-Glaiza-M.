@@ -1,0 +1,44 @@
+h1{
+    color:gray;
+    background:pink;
+    text-allign:center;
+    position:center;
+}
+
+.font-style {
+    font-family:Brush Script MT;
+    font-style:Italic;
+    font-weight:bold;
+    font-size:20px;
+}
+p{
+    color:white;
+    position:center;
+    font-size:20;
+    text-allign:center;
+}
+
+li{
+    color:white;
+}
+
+h2{
+    color:gray;
+    background:pink;
+    text-allign:center;
+    font-style:Verdana;
+}
+
+label{
+    color:white;
+}
+
+h4{
+    color:white;
+
+} 
+ol{
+    text allign:center;
+    margin:20px;
+    padding:20px;
+}
